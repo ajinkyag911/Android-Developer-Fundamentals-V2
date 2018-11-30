@@ -4,4 +4,5 @@
     <string name="count">Count</string>
     <string name="_0">0</string>
     <string name="toast_message">Hello Toast!</string>
+    <string name="toast">toast</string>
 </resources>

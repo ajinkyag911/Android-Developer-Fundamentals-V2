@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mCount = 0;
-        mCountTextView=findViewById(R.id.show_count);
+        mCountTextView = findViewById(R.id.show_count);
         mCountTextView.setText(Integer.toString(mCount));
     }
 
