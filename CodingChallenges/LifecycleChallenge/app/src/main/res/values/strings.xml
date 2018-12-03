@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lifecycle Challenge</string>
+    <string name="common_items">Common Items</string>
+    <string name="carrots">Carrots</string>
+    <string name="tomatoes">Tomatoes</string>
+    <string name="cucumbers">Cucumbers</string>
+    <string name="spinach">Spinach</string>
+    <string name="onions">Onions</string>
+</resources>
